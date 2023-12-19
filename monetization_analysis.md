@@ -44,9 +44,8 @@ But if the app is more to entertainment than education, all of the previous anal
 
 **Price arrangement:**
 
-As was mentioned in the lifetime_value notebook, I could start decreasing the subscription price in GB, because in there the impact of this movement can be higher, as its currency is more valued than other countries.
-To start I would decrease the price in a marketing campaign to see the price sensibility. 
-Depending on the results I would start decreasing the overall price in GB.
+As was mentioned in the lifetime_value notebook, I could start decreasing the subscription price in US, because in there the impact of this movement can be higher, as its currency is less valued than the euro.
+To start I would decrease the price in a marketing campaign to see the price sensibility and, depending on the results, I would start decreasing the overall price in US.
 
 **Metrics:**
 
@@ -54,4 +53,4 @@ To evaluate the results I would use:
 - **LTV:** to see if the customers are spending more money throughout their lifetime
 - **Basket composition**: to see the composition of customer average ticket and evaluate if the rise of LTV is caused by more renewals or by cross-selling products.
 - **New subscriptions:** to measure the customer's sensibility over the new subscription price
-- **Average Ticket Value:** 
+- **Overall revenue by country:** to see if the US is still the country where most of the revenue comes from.
